@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+html{
+  background-color: #E6E6E6;
+  font-family: 'Medium 500', montserrat;
+  
+}
+
+/* cabeçario */ 
+
+.header {
+  padding: 1px;
+  text-align: center;
+  background: #5C7AEA;
+  color: #E6E6E6;
+  font-size: 20px;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+
