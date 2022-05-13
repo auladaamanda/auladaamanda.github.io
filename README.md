@@ -1,1 +1,0 @@
-# auladaamanda.github.io
