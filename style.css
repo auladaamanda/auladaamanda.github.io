@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 
 html {
-  background-color: #e6e6e6;
+  background-color: #F5F5EF;
   font-family: "Medium 500", montserrat;
 }
 
@@ -10,8 +10,8 @@ html {
 .header {
   padding: 1px;
   text-align: center;
-  background: #5c7aea;
-  color: #e6e6e6;
+  background: #FFC2B4;
+  color: #F5F5EF;
   font-size: 20px;
 }
 
